@@ -1,0 +1,9 @@
+# VSCode
+*.code-workspace
+
+# node.js
+node_modules/
+npm-debug.log
+
+# config file
+config.js
